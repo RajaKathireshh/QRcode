@@ -1,4 +1,4 @@
-#Instll the required packages 
+#Install the required packages 
 pip install qrcode
 pip install image
 
